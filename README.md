@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo N°2 de la PrepCourse Henry
+Este es un proyecto de prueba de como crear un repsitor y crearlo desde el github a la pc 
